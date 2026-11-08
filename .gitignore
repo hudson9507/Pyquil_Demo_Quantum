@@ -1,0 +1,5 @@
+# VS Code local settings
+.vscode/settings.json
+# Python cache
+__pycache__/
+*.pyc
